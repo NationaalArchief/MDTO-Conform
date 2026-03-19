@@ -42,3 +42,17 @@ Het is mogelijk om vanuit MDTO-metagegevens te verwijzen naar aanvullende metage
 Bij een aantal MDTO-metagegevens is het toegestaan om waarden te gebruiken die niet binnen MDTO zijn gespecificeerd (bij de attributen met een zogenaamde vrije of open begrippenlijst). Mits deze aanvullende waarden gedocumenteerd zijn zoals in het metagegevensschema voorgeschreven.
 
 Dit betekent dat een importfunctie er rekening mee moet houden dat er bij deze attributen waarden aangeboden kunnen worden die niet in MDTO zijn gespecificeerd. Ook deze waarden moeten dan vastgelegd worden.
+
+<!-- 
+## test tabel
+
+| Eis / Functionaliteit             | Minimaal MDTO-conform                                                       | Volledig MDTO-conform                                                           |
+| --------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| MDTO-metagegevens vastgelegd      | Verplichte metagegevens worden gedurende de gehele levenscyclus vastgelegd. | ✔ (zelfde eis als minimaal)                                                     |
+| Vertaling naar metagegevensschema | Eenduidige mapping zonder informatieverlies naar MDTO-schema.               | ✔ (zelfde eis als minimaal)                                                     |
+| Weergave metagegevens             | Weergave van metagegevens beschikbaar voor alle gebruikers.                 | Gestructureerd volgens MDTO-schema + juiste labels gebruikt.                    |
+| Export metagegevens               | Export in automatisch verwerkbaar formaat.                                  | Export als XML conform MDTO XML-schema.                                         |
+| Import metagegevens               | —                                                                           | Import (indien aanwezig) via XML conform MDTO-schema, zonder informatieverlies. |
+| Export/Import SIP                 | —                                                                           | Ondersteunt MDTO SIP-formaat (indien functie aanwezig).                         |
+| Aanvullende uitwisseling          | —                                                                           | Andere uitwisselingsvormen toegestaan (bijv. extra weergave of XML-formaten).   |
+-->
