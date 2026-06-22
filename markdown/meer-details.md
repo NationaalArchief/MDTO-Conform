@@ -16,9 +16,9 @@
 
 **Auteur**  
 [Nationaal Archief](https://www.nationaalarchief.nl/)<br>
-Prins Willem-Alexanderhof 20 
-Postbus 90520  
-2509 LM Den Haag  
+Prins Willem-Alexanderhof 20<br>
+Postbus 90520<br>
+2509 LM Den Haag<br>
 info@nationaalarchief.nl
 
 ---
